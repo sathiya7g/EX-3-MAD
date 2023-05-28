@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by:G.KANNAN
-Registeration Number : 212221040071
+Developed by:DINESH KUMAR M
+Registeration Number : 2122212200011
 */
 ```
 activity_main.xml:
